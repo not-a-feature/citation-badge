@@ -10,6 +10,10 @@ To have more style options (color, edges, etc.) you can also combine this badge 
 <img src="https://api.juleskreuer.eu/citation-badge.php?doi=a-wrong-doi" height="25">
 <img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fdoi%3Dstats%26shield" height="25">
 
+## Support
+Do you want to support or buy me a coffe: https://buymeacoffee.com/notafeature
+
+
 ## Usage
 Go to [juleskreuer.eu/projects/citation-badge](https://juleskreuer.eu/projects/citation-badge) and paste your doi. Alternatively you can replace YOURDOI.
 
